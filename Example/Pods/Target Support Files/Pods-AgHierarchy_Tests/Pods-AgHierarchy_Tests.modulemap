@@ -1,0 +1,6 @@
+framework module Pods_AgHierarchy_Tests {
+  umbrella header "Pods-AgHierarchy_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

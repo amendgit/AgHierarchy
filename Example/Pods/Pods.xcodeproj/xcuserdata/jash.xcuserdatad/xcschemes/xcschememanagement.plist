@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AgHierarchy.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Kiwi.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-AgHierarchy_Example.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-AgHierarchy_Tests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0BD108EA0065CC2BE29C690ED6A0887E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2E5A2CEF9847FC8FF4210268DB7C6708</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>60DB67D1DDCD39CFBBB79D891153D8B7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6BB651F7B6C9EA7CF4A5BF9E4694C9B1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

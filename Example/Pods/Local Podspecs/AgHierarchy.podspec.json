@@ -1,0 +1,22 @@
+{
+  "name": "AgHierarchy",
+  "version": "0.1.0",
+  "summary": "A short description of AgHierarchy.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/AgHierarchy",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "erxiangbo": "erxiangbo@wacai.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/AgHierarchy.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AgHierarchy/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module AgHierarchy {
+  umbrella header "AgHierarchy-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,19 @@
+PODS:
+  - AgHierarchy (0.1.0)
+  - Kiwi (2.4.0)
+
+DEPENDENCIES:
+  - AgHierarchy (from `../`)
+  - Kiwi
+
+EXTERNAL SOURCES:
+  AgHierarchy:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AgHierarchy: 7aded59901d13f961176680a3d3e7c82a4167e4d
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+
+PODFILE CHECKSUM: 49009a03d433cadd6716fa1cf8ff7176996f8bba
+
+COCOAPODS: 1.0.1
